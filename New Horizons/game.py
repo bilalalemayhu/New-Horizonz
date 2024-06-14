@@ -1,6 +1,6 @@
 import pygame
 import random as rand
-from playsound import playsound
+
 
 pygame.init()
 pygame.mixer.init()
