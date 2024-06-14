@@ -1,5 +1,10 @@
 # New-Horizonz
 
+
+dependencies:
+pygame
+random
+
 Controls
 
 
